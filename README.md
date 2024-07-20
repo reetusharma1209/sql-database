@@ -4,7 +4,7 @@ by Reetu & Tobias
 
 ### Project Plan
 
-![Project plan](logical_model_sql_project.jpg)
+![Project plan]()
 
 ### Data
 Sales Data taken from: [UCI Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)<br>
@@ -23,7 +23,7 @@ An online store loacted in the UK is aiming to expand its customer base beyond t
 
 #### Entity Relationship Diagram
 
-![ERD](E-R diagram.png)
+![ERD](https://github.com/reetusharma1209/sql-database/blob/main/img/E-R%20diagram.png)
 
 ### Results
 
