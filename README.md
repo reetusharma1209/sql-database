@@ -4,7 +4,7 @@ by Reetu & Tobias
 
 ### Project Plan
 
-![Project plan]()
+![Project plan](https://github.com/reetusharma1209/sql-database/blob/main/img/logical_model_sql_project.jpg)
 
 ### Data
 Sales Data taken from: [UCI Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)<br>
